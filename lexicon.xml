@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" version="1.0" alphabet="sapi" xml:lang="zh-CN" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
+  <lexeme>
+    <grapheme>云彩</grapheme>
+    <phoneme>yun 2 - cai 3</phoneme>
+  </lexeme>
+  <lexeme>
+    <grapheme>猎犬</grapheme>
+    <phoneme>lie 4 - quan 3</phoneme>
+  </lexeme>
+</lexicon>
