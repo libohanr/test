@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <lexicon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2005/01/pronunciation-lexicon http://www.w3.org/TR/2007/CR-pronunciation-lexicon-20071212/pls.xsd" version="1.0" alphabet="ipa" xml:lang="en-US" xmlns="http://www.w3.org/2005/01/pronunciation-lexicon">
   <lexeme>
-    <grapheme>/iː/</grapheme>
+    <grapheme>iː</grapheme>
     <phoneme>iː</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>/ɪ/</grapheme>
+    <grapheme>ɪ</grapheme>
     <phoneme>ɪ</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>/æ/</grapheme>
+    <grapheme>æ</grapheme>
     <phoneme>æ</phoneme>
   </lexeme>
   <lexeme>
-    <grapheme>/ɑː/</grapheme>
+    <grapheme>ɑː</grapheme>
     <phoneme>ɑː</phoneme>
   </lexeme>
 </lexicon>
